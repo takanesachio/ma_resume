@@ -42,7 +42,8 @@
                 class="fixed top-0 left-0 right-0 z-50 flex items-center justify-between p-2 px-3 bg-white/10 mobile-menu-bar sm:px-6 backdrop-blur-md xl:hidden">
                 <div class="text-lg font-medium name">
                     <a href="" class="flex items-center gap-2 text-black dark:text-white">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/LOGO-SWU-BERWARNA.png" width="40" alt="Minfo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/LOGO-SWU-BERWARNA.png"
+                            width="40" alt="Minfo">
                         <span>Laela Supriyatin</span>
                     </a>
                 </div>
@@ -115,14 +116,17 @@
                 </ul>
             </div>
 
-            <div class="w-full mx-auto minfo__sidebar__wrapper xl:fixed xl:top-1/2 xl:left-4 2xl:left-14 xl:-translate-y-1/2 md:max-w-sidebar xl:max-2xl:max-w-xs z-999">
+            <div
+                class="w-full mx-auto minfo__sidebar__wrapper xl:fixed xl:top-1/2 xl:left-4 2xl:left-14 xl:-translate-y-1/2 md:max-w-sidebar xl:max-2xl:max-w-xs z-999">
 
                 <div class="p-3 max-xl:mb-3 overflow-hidden minfo__sidebar bg-white dark:bg-nightBlack rounded-2xl">
                     <div class="mx-4 mt-12 text-center user-info lg:mx-6">
                         <a href=""
                             class="w-36 h-36 mb-2.5 block mx-auto border-6 border-platinum dark:border-[#2f2f2f] overflow-hidden rounded-full *:w-full *:h-full *:rounded-full">
-                            <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png" class="hidden dark:block " alt="Laela Supriyatin">
-                            <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png" class="dark:hidden" alt="Laela Supriyatin">
+                            <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png"
+                                class="hidden dark:block " alt="Laela Supriyatin">
+                            <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png" class="dark:hidden"
+                                alt="Laela Supriyatin">
                         </a>
                         <h6 class="mb-1 text-lg font-semibold text-black dark:text-white name">Laela Supriyatin</h6>
                         <div class="leading-none cd-headline clip is-full-width">
@@ -133,7 +137,8 @@
                             </h6>
                         </div>
                     </div>
-                    <div class="pt-6 mx-4 border-t lg:mx-6 user-meta-info md:mx-7 my-7 border-platinum dark:border-metalBlack">
+                    <div
+                        class="pt-6 mx-4 border-t lg:mx-6 user-meta-info md:mx-7 my-7 border-platinum dark:border-metalBlack">
                         <ul class="space-y-3 *:flex *:text-sm">
                             <li>
                                 <span class="flex-1 font-medium text-black dark:text-white">Residence:</span>
@@ -150,9 +155,9 @@
                         </ul>
                     </div>
                 </div>
-            
+
             </div>
-            
+
 
             <div
                 class="minfo__nav__wrapper bg-snowWhite dark:bg-power__black max-xl:hidden fixed top-1/2 -translate-y-1/2 right-4 2xl:right-14 z-999 flex items-center flex-col gap-4 border border-platinum dark:border-metalBlack rounded-4xl px-2.5 py-4">
@@ -215,21 +220,27 @@
 
                 <div data-scroll-index="0" id="home">
 
-                    <div class="hero-section px-5 py-8 md:p-8 bg-white dark:bg-nightBlack rounded-2xl lg:p-10 2xl:p-13">
-                        <div class="inline-flex items-center gap-2 px-4 py-2 text-xs tracking-wide text-black dark:text-white border lg:px-5 section-name border-platinum dark:border-greyBlack200 rounded-4xl">
+                    <div
+                        class="hero-section px-5 py-8 md:p-8 bg-white dark:bg-nightBlack rounded-2xl lg:p-10 2xl:p-13">
+                        <div
+                            class="inline-flex items-center gap-2 px-4 py-2 text-xs tracking-wide text-black dark:text-white border lg:px-5 section-name border-platinum dark:border-greyBlack200 rounded-4xl">
                             <i class="fal fa-home text-theme"></i>
                             PEKENALAN
                         </div>
                         <div class="items-center gap-6 hero-content md:flex xl:gap-10">
                             <div class="text-content pt-7 lg:pt-8 max-lg:max-w-[30rem]">
-                                <h1 class="text-[32px] lg:text-5xl xl:text-4xl 2xl:text-5xl font-semibold text-black dark:text-white leading-1.27 lg:leading-1.27 xl:leading-1.27 2xl:leading-1.27 mb-4 lg:mb-5">
+                                <h1
+                                    class="text-[32px] lg:text-5xl xl:text-4xl 2xl:text-5xl font-semibold text-black dark:text-white leading-1.27 lg:leading-1.27 xl:leading-1.27 2xl:leading-1.27 mb-4 lg:mb-5">
                                     Saya Menciptakan <br>
                                     <span class="text-theme">Keindahan Kecantikan</span>
                                 </h1>
                                 <p>
-                                    Saya adalah seorang <span class="font-medium text-black dark:text-white/90">Asisten MUA</span> yang berfokus pada memberikan layanan make-up profesional untuk klien yang ingin tampil memukau pada setiap kesempatan.
+                                    Saya adalah seorang <span class="font-medium text-black dark:text-white/90">Asisten
+                                        MUA</span> yang berfokus pada memberikan layanan make-up profesional untuk klien
+                                    yang ingin tampil memukau pada setiap kesempatan.
                                 </p>
-                                <ul class="flex items-center mt-4 -mx-3 lg:mt-5 *:flex *:items-center *:mx-3 *:text-regular">
+                                <ul
+                                    class="flex items-center mt-4 -mx-3 lg:mt-5 *:flex *:items-center *:mx-3 *:text-regular">
                                     <li>
                                         <i class="mr-2 fal fa-check-double text-theme"></i>
                                         Tersedia untuk pekerjaan kecantikan
@@ -240,16 +251,18 @@
                                     </li>
                                 </ul>
                             </div>
-                
+
                             <div class="hero-image flex-[0_0_20.3rem] max-md:hidden">
-                                <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png" class="dark:hidden" alt="Hero Image - Light Mode">
-                                <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png" class="hidden dark:block" alt="Hero Image - Dark Mode">
+                                <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png"
+                                    class="dark:hidden" alt="Hero Image - Light Mode">
+                                <img src="https://cdn-icons-png.flaticon.com/512/15997/15997174.png"
+                                    class="hidden dark:block" alt="Hero Image - Dark Mode">
                             </div>
                         </div>
                     </div>
-                
+
                 </div>
-                
+
 
                 <div data-scroll-index="1" id="about">
 
@@ -261,14 +274,19 @@
                             TENTANG SAYA
                         </div>
                         <div class="mt-7 md:mt-10 section-title">
-                            <h2 class="title text-[32px] md:text-4xl lg:text-5xl font-extralight text-black dark:text-white leading-1.27">
+                            <h2
+                                class="title text-[32px] md:text-4xl lg:text-5xl font-extralight text-black dark:text-white leading-1.27">
                                 Tentang <span class="font-semibold text-theme">Saya</span>
                             </h2>
                             <p class="max-w-2xl mt-4 md:mt-6 subtitle">
-                                Hai, nama saya <span class="text-black dark:text-white">Laela Supriyatin</span> dan saya seorang Asisten MUA yang memiliki pengalaman dalam dunia kecantikan. Saya berfokus pada memberikan layanan make-up yang profesional, membantu klien merasa lebih percaya diri dengan tampilan yang sempurna. Saya selalu mengikuti tren terbaru di dunia kecantikan dan berkomitmen untuk memberikan hasil terbaik bagi setiap klien saya.
+                                Hai, nama saya <span class="text-black dark:text-white">Laela Supriyatin</span> dan
+                                saya seorang Asisten MUA yang memiliki pengalaman dalam dunia kecantikan. Saya berfokus
+                                pada memberikan layanan make-up yang profesional, membantu klien merasa lebih percaya
+                                diri dengan tampilan yang sempurna. Saya selalu mengikuti tren terbaru di dunia
+                                kecantikan dan berkomitmen untuk memberikan hasil terbaik bagi setiap klien saya.
                             </p>
                         </div>
-                        
+
                         <div class="mt-6 section-content">
                             <ul
                                 class="grid mt-4 mb-10 text-sm lg:mt-6 md:grid-cols-2 gap-x-8 gap-y-3 *:flex *:items-center">
@@ -426,14 +444,16 @@
                             KONTAK
                         </div>
                         <div class="mb-10 mt-7 section-title">
-                            <h2 class="title text-[32px] md:text-4xl lg:text-5xl font-extralight text-black dark:text-white leading-1.27">
+                            <h2
+                                class="title text-[32px] md:text-4xl lg:text-5xl font-extralight text-black dark:text-white leading-1.27">
                                 Hubungi <span class="font-semibold text-theme">Saya.</span>
                             </h2>
                             <p class="mt-3.5 md:mt-5 subtitle max-w-sectionTitle">
-                                Sebagai Asisten MUA, saya berfokus pada memberikan layanan kecantikan yang terbaik. Jika Anda membutuhkan bantuan atau ingin bekerja sama, jangan ragu untuk menghubungi saya.
+                                Sebagai Asisten MUA, saya berfokus pada memberikan layanan kecantikan yang terbaik. Jika
+                                Anda membutuhkan bantuan atau ingin bekerja sama, jangan ragu untuk menghubungi saya.
                             </p>
                         </div>
-                        
+
 
                         <div class="grid gap-12 mt-8 mb-10 md:my-12 md:grid-cols-12">
                             <div class="md:col-span-5">
@@ -508,9 +528,14 @@
                             </div>
 
                             <div class="md:col-span-7">
-                                <form id="contactForm"
-                                    action="https://html.themestransmit.com/minfo-tailwind/contact-form.php"
-                                    method="POST" class="space-y-4">
+                                @if (session('success'))
+                                    <div class="alert alert-success">
+                                        {{ session('success') }}
+                                    </div>
+                                @endif
+                                <form id="contactForm" action="{{ route('contact.store') }}" method="POST"
+                                    class="space-y-4">
+                                    @csrf
                                     <div class="form-group">
                                         <input type="text" name="client__name" id="client__name"
                                             placeholder="Name"
@@ -524,10 +549,10 @@
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <textarea name="contact__message" name="contact__message" placeholder="Message" rows="5"
+                                        <textarea name="contact__message" id="contact__message" placeholder="Message" rows="5"
                                             class="w-full px-5 py-4 text-sm outline-none focus:border-theme dark:placeholder:text-white/40"></textarea>
                                     </div>
-                                    <div class=" form-group">
+                                    <div class="form-group">
                                         <button type="submit"
                                             class="inline-flex items-center gap-2 text-[15px] font-medium border border-theme bg-theme text-white py-4.5 px-9 rounded-4xl leading-none transition-all duration-300 hover:bg-themeHover hover:border-themeHover"
                                             aria-label="Send Message">
@@ -535,6 +560,7 @@
                                         </button>
                                     </div>
                                 </form>
+
                             </div>
                         </div>
                     </div>
